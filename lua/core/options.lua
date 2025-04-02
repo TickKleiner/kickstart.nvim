@@ -11,9 +11,6 @@ vim.opt.wrap = false
 -- Companion to wrap, don't split words (default: false)
 vim.opt.linebreak = true
 
-vim.opt.tabstop = 4
-vim.opt.softtabstop = 4
-vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 vim.opt.smarttab = true
 vim.opt.smartindent = true
